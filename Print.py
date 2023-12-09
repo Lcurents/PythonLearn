@@ -1,3 +1,3 @@
 print("Hallo Namaku Dika")
-x=12
+x=input("Masukkan nilai X=")
 print("Nilai X adalah "+str(x))
